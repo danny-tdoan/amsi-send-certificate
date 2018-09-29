@@ -1,0 +1,7 @@
+Dear {first_name},
+
+Please find attached the certificate for...
+
+The first name of the recipient is {first_name}
+The last name of the recipient is {last_name}
+The email of the recipient is {email}
